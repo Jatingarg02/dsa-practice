@@ -3,13 +3,11 @@ class Solution(object):
         if k > len(nums) or k < 0:
             return -1
     
-        window = float(sum(nums[ : k ]))
+        window = sum(nums[ : k ])
         best = window
         for i in range(k , len(nums)):
-            window += nums[i]
-            window -= nums[i-k]
+            window = window + nums[i] - nums[i-k]
             best = max(window , best)
-        MaxAverage = best/k
-        return MaxAverage
+        return float(best)/k
 
         

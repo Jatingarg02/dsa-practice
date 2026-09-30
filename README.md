@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Jatingarg02/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Jatingarg02/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jatingarg02/dsa-practice/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Jatingarg02/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Jatingarg02/dsa-practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatingarg02/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Jatingarg02/dsa-practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jatingarg02/dsa-practice/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Jatingarg02/dsa-practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Jatingarg02/dsa-practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatingarg02/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jatingarg02/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jatingarg02/dsa-practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jatingarg02/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Jatingarg02/dsa-practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
